@@ -156,7 +156,7 @@ The logged feature was not used too often as there were many blanks in the data 
 
 ## Share 
 
-Check out the daashboard on Tableau Public: [Bellabeat Dashboard](https://public.tableau.com/app/profile/paijetableau/viz/BellaBeatCaseStudy_16610415560350/Dashboard?publish=yes)
+Check out the daashboard on Tableau Public: [Bellabeat Dashboard](https://public.tableau.com/app/profile/profjays/viz/GoogleAnalyticsCapstoneProject-Bellabeat_17288520175800/Dashboard?publish=yes)
 
 ## Act
 
